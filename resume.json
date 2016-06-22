@@ -48,7 +48,9 @@
             ],
             "description": [
                 "能够阅读英文专业书籍、论文、文档、博客、技术新闻及其他资料",
-                "带字幕能观看MOOC课程、开发者大会视频"
+                "带字幕能观看MOOC课程、开发者大会视频",
+                "能够在英文邮件列表、英文社区正常交流"
+
             ]
         }
     ],
@@ -57,13 +59,13 @@
             "type": "internship",
             "techtype": "nodejs",
             "place": "全国大学生数学建模竞赛",
-            "start": "",
+            "start": "2014.09",
             "end": "2014.09",
             "name": "",
             "description": [
                 "根据试题，查询资料学习相关理论，构建数学模型",
-                "用`MATLAB`结合模型编写程序",
-                "撰写论文部分内容"
+                "用`MATLAB`根据模型编写程序",
+                "在团队的配合下完成论文的撰写"
             ],
             "stack": ["nodejs", "express", "mocha", "chai", "coffeescript", "mongodb"]
         },
@@ -75,7 +77,8 @@
             "end": "2014.10",
             "name": "",
             "description": [
-                "在老师的指导带领下，自己动手在机床上实习操作"
+                "在老师的指导带领下，自己动手在机床上实验操作",
+                "学习各种工厂机器的操作"
             ],
             "stack": ["jqueryui", "bootstrap", "jquery", "grunt", "less"],
             "compatibility": "IE8+"
@@ -88,7 +91,8 @@
             "end": "2015.09",
             "name": "",
             "description": [
-                "参观印刷工厂实际操作"
+                "参观印刷工厂实际操作",
+                "参观了解公司的各种印刷品"
             ],
             "stack": ["nodejs", "express", "mocha", "chai", "coffeescript", "mongodb"]
         }
@@ -105,6 +109,13 @@
                         "`数字印前原理与技术` 、 `印刷数字化流程`",
                         "`印前图文处理` 、 `图像设计` ",
                         "`印刷专业英语`"
+                    ]
+                },
+                {
+                    "summary": "课程设计",
+                    "description": [
+                        "了解拼版的基本原理，并用`Illustrator`将单个页面拼成大版",
+                        "了解`WH47型胶印机`基本操作"
                     ]
                 },
                 {

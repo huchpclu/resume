@@ -12,7 +12,7 @@ block education
           dd.education-major= item.major + education_type[item.type]
           each honor in item.honor
             dd.education-honor!= highlight(honor)
-
+            
 
 block language
   +section("language", false)
@@ -51,4 +51,4 @@ block links
           a(href=link.url)= link_type[link.type]
 
 block repo
-  p #[a(href="https://github.com/joyeecheung/resume") This resume] is created with Gulp, Less and Jade.
+  p #[a(href="https://github.com/huchpclu/resume") This resume] is created with Gulp, Less and Jade.
